@@ -32,12 +32,17 @@ npx json-server --watch db.json --port 3000
    npm start
 6. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-Usage
+## Usage
+
 To add a new user, fill in the name and email fields and click "Add User".
+
 To edit a user, click the edit button next to the user's details, update the information in the modal, and click "Save changes".
+
 To delete a user, click the delete button next to the user's details and confirm the deletion.
-Dependencies
-React
-Axios
-JSON Server
-Bootstrap
+
+## Dependencies
+
+- React
+- Axios
+- JSON Server
+- Bootstrap
