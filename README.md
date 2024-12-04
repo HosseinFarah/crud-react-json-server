@@ -21,7 +21,7 @@ This is a simple phonebook application built with React. It allows users to add,
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/phonebook.git
+   git clone https://github.com/hosseinfarah/phonebook.git
 
 2. Navigate to the project directory:
    cd phonebook
