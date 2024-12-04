@@ -20,8 +20,7 @@ This is a simple phonebook application built with React. It allows users to add,
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/hosseinfarah/phonebook.git
+   https://github.com/HosseinFarah/crud-react-json-server.git
 
 2. Navigate to the project directory:
    cd phonebook
