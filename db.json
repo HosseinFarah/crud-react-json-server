@@ -1,21 +1,6 @@
 {
   "users": [
     {
-      "name": "Ivy Johnson",
-      "email": "ivy@gmail.com",
-      "id": "11"
-    },
-    {
-      "name": "Jack King",
-      "email": "jack@gmail.com",
-      "id": "12"
-    },
-    {
-      "name": "Karen Lee",
-      "email": "karen@gmail.com",
-      "id": "13"
-    },
-    {
       "id": "14",
       "name": "Larry Moore",
       "email": "larry@gmail.com",
@@ -164,12 +149,6 @@
       "name": "Ursula Vance",
       "email": "ursula@gmail.com",
       "phone": "901-234-5672"
-    },
-    {
-      "id": "50",
-      "name": "Vince White",
-      "email": "vince@gmail.com",
-      "phone": "012-345-6783"
     }
   ]
 }
